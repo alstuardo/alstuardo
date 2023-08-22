@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Alejandro and I'm a Web Developer in training, from Chile</h2>
+<h1 align="left">Hola 👋 Mi nombre es Alejandro y soy Desarrollador Web en formación</h1>
 
 ###
+![Copia de become a beast (2)](https://github.com/alstuardo/alstuardo/assets/138548426/e3d59869-41d9-4475-b3a6-a8895bc6c546)
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/138548426?s=400&u=b8b790a86dd4feb6ebe88bc44b0d98e68429151b&v=4"  />
 
 ###
 
