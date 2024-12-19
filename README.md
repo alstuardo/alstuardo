@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👨🏻‍💻 Soy Alejandro</h1>
+<h1 align="left">Hi there 👨🏻‍💻 I'm Alejandro</h1>
 
 ###
 ![Copia de become a beast (2)](https://github.com/alstuardo/alstuardo/assets/138548426/e3d59869-41d9-4475-b3a6-a8895bc6c546)
